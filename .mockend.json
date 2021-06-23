@@ -1,0 +1,13 @@
+{
+  "Post": {
+    "title": "Block Transfer: An issuer portal built on Retool using Mockend reads of the Stellar blockchain",
+    "views": "self",
+    "published": "internal",
+    "createdAt": "June 23, 2021",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
